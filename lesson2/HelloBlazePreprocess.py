@@ -46,6 +46,10 @@ def label_data(input_data):
           
     return labeled_data
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> d797043957b48eecbdc08d5e70c7d32400328955
 # Labeled data is a list of sentences, starting with the label defined in label_data. 
 
 def split_sentences(labeled_data):
